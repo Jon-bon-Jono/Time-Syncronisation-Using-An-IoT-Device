@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#by Jonathan Williams (z5162987) and Cavinash Chelliah (z3417347)
+#by Jonathan Williams
 import socket
 import time
 import datetime
